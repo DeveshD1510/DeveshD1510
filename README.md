@@ -3,7 +3,7 @@
 - 👀 I’m interested in AI in Life Sciences or AI in Pharmacy fields
 - 😒 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me:
--     Email: deveshdabhade10@gmail.com
+     [Email](mailto:deveshdabhade10@gmail.com)
 - 😄 Pronouns: Any 
 
 <!---
